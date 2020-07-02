@@ -34,6 +34,9 @@ CBA MOOD Control provides access to the knobs, switches and buttons on the top o
 CBA Thermae Control provides access to the knobs, switches and buttons on the top of the Thermae analog delay.
 
 ## CBA Blooper Control
+
+![CBA Blooper Control Device Image](images/blooper-control.png)
+
 CBA Blooper Control provides access to the knobs, switches and buttons on the top and front of the Blooper bottomless looper.
 
 ## CBA Common (comming soon)
