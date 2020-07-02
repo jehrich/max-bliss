@@ -23,6 +23,8 @@ The collection currently contains the following devices:
 
 ## CBA MOOD Control
 
+![CBA MOOD Control Screen-Shot](images/mood-control.png)
+
 CBA MOOD Control provides access to the knobs, switches and buttons on the top of the MOOD micro looper.
 
 ## CBA Thermae Control
