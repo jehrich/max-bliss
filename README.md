@@ -42,3 +42,9 @@ CBA Blooper Control provides access to the knobs, switches and buttons on the to
 ## CBA Common (comming soon)
 
 CBA Common provides access to functions common to several pedals, such as exptression control, MIDI clock ignore and effect bypass. These are (ironically) not often needed (at least by me) when using the pedal over MIDI since their function is somewhat redundant. By placing them in their own device they can be omitted expcept when necessary.
+
+# Support
+
+These devices are provided as-is and there is no official support. However, if you think you have found a bug, or if you have a feature request, please open a new issue if one doesn't already exist.
+
+:warning: These devices are currently a work in progress and should be trated as such. It's possible that newer versions may be incompatible with previous versions. 
