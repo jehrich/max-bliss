@@ -47,4 +47,4 @@ CBA Common provides access to functions common to several pedals, such as exptre
 
 These devices are provided as-is and there is no official support. However, if you think you have found a bug, or if you have a feature request, please open a new issue if one doesn't already exist.
 
-:warning: These devices are currently a work in progress and should be trated as such. It's possible that newer versions may be incompatible with previous versions. 
+:warning: These devices are currently a work in progress and should be treated as such. It's possible that newer versions may be incompatible with previous versions so upgrade your Live Set with caution.
